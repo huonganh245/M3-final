@@ -9,6 +9,7 @@ Identifying a way to predict the stock market return series has been on the agen
 ### All in one (EDA + Machine learning + Deep learning) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17vfdvdi9BahXkPLq_4hKsSaJOps7xsRg)
 
 ### File name explanation
+Data source: https://www.kaggle.com/dgawlik/nyse
 Dataset consists of following files:
 
 - prices.csv: raw, as-is daily prices. Most of data spans from 2010 to the end 2016, for companies new on stock market date range is shorter. There have been approx. 140 stock splits in that time, this set doesn't account for that.
