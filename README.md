@@ -6,7 +6,9 @@ Identifying a way to predict the stock market return series has been on the agen
 ### Machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TilDy1kdyprlLbIXqU5ifQlOoxmBP0Oq)
 ### Deep learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Loo-3jIjObW91hqmsUfsPsC9L2DdiQv)
 
-### All in one (EDA + Machine learning + Deep learning) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17vfdvdi9BahXkPLq_4hKsSaJOps7xsRg)
+### All in one (EDA + Machine learning + Deep learning (1)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17vfdvdi9BahXkPLq_4hKsSaJOps7xsRg)
+
+### All in one (EDA + Machine learning + Deep learning (2)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kDX5GEEG3w7cL4gjjI_5YLhGhkhCU9yr)
 
 ### File name explanation
 Data source: https://www.kaggle.com/dgawlik/nyse
