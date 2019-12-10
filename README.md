@@ -8,7 +8,7 @@ Identifying a way to predict the stock market return series has been on the agen
 
 ### All in one (EDA + Machine learning + Deep learning (1)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17vfdvdi9BahXkPLq_4hKsSaJOps7xsRg)
 
-### Deep learning (2) with Amazon [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1awU7HwE4mhGMbweepVPG3WVnkCLp5D0T)
+### Deep learning (2) with Amazon [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FePwLFzr6zGoRHpMdO_aX61MuQiKAsS6)
 
 ### File name explanation
 Data source: https://www.kaggle.com/dgawlik/nyse
